@@ -227,7 +227,7 @@
     <key>restartExamPasswordProtected</key>
     <true />
     <key>examSessionReconfigureAllow</key>
-    <false />
+    <true />
     <key>examSessionReconfigureConfigURL</key>
     <string />
     <key>quitURLRestart</key>
