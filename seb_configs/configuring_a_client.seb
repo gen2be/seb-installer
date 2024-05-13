@@ -49,7 +49,7 @@
     <key>mainBrowserWindowPositioning</key>
     <integer>1</integer>
     <key>enableBrowserWindowToolbar</key>
-    <true />
+    <false />
     <key>hideBrowserWindowToolbar</key>
     <false />
     <key>showMenuBar</key>
@@ -1429,7 +1429,7 @@
     <key>logDirectoryWin</key>
     <string />
     <key>allowWlan</key>
-    <false />
+    <true />
     <key>lockOnMessageSocketClose</key>
     <true />
     <key>minMacOSVersion</key>
