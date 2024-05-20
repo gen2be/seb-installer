@@ -81,7 +81,7 @@
     <key>showTime</key>
     <true />
     <key>showInputLanguage</key>
-    <true />
+    <false />
     <key>enableTouchExit</key>
     <false />
     <key>oskBehavior</key>
@@ -115,7 +115,7 @@
     <key>newBrowserWindowByLinkHeight</key>
     <string>100%</string>
     <key>newBrowserWindowByLinkPositioning</key>
-    <integer>1</integer>
+    <integer>2</integer>
     <key>newBrowserWindowShowURL</key>
     <integer>0</integer>
     <key>browserWindowShowURL</key>
@@ -135,7 +135,7 @@
     <key>allowBrowsingBackForward</key>
     <false />
     <key>newBrowserWindowNavigation</key>
-    <true />
+    <false />
     <key>removeBrowserProfile</key>
     <true />
     <key>removeLocalStorage</key>
@@ -145,7 +145,7 @@
     <key>browserWindowAllowReload</key>
     <true />
     <key>newBrowserWindowAllowReload</key>
-    <true />
+    <false />
     <key>showReloadWarning</key>
     <true />
     <key>newBrowserWindowShowReloadWarning</key>
