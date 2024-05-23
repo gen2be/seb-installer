@@ -229,7 +229,7 @@
     <key>hashedAdminPassword</key>
     <string>8C6976E5B5410415BDE908BD4DEE15DFB167A9C873FC4BB8A81F6F2AB448A918</string>
     <key>hashedQuitPassword</key>
-    <string>8C6976E5B5410415BDE908BD4DEE15DFB167A9C873FC4BB8A81F6F2AB448A918</string>
+    <string>240BE518FABD2724DDB6F04EEB1DA5967448D7E831C08C8FA822809F74C720A9</string>
     <key>hideBrowserWindowToolbar</key>
     <false />
     <key>hookKeys</key>
